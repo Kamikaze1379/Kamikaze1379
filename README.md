@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamikaze1379
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 
 
 <!---
